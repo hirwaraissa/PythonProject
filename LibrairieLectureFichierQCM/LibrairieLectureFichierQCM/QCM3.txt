@@ -1,0 +1,18 @@
+Q|Quelle est la couleur dominante du drapeau européen?
+A|BLeu|V
+A|Noir|X
+A|Rouge|X
+A|Brun|X
+
+Q|D où vient Nelson Mandela?
+A|Afrique du Sud|V
+A|Rwanda|X
+A|Niger|X
+A|Tanzanie|X
+
+Q|Quel est le président de l Union africain?
+A|Paul Kagame|V
+A|Martin Luther King|X
+A|Felix Tshisekedi|X
+A|Kansiime Desange|X
+
